@@ -1,1 +1,7 @@
-Aqui vai o cabeçalho do meu site.
+# Salve, eu sou o Mauricio
+Estou aprendendo Desenvolvimento de Software e Metodologias Ágeis.
+
+## Minhas Ferramentas
+- Git e GutHub
+- VScode
+- Organização de projetos
